@@ -1,0 +1,110 @@
+
+{
+  "personal": {
+    "name": "Jane Smith",
+    "title": "Full Stack Developer",
+    "description": "I build accessible, inclusive products and digital experiences for the web.",
+    "image": "/placeholder.svg",
+    "location": "San Francisco, CA",
+    "email": "jane.smith@example.com",
+    "github": "https://github.com/janesmith",
+    "linkedin": "https://linkedin.com/in/janesmith",
+    "twitter": "https://twitter.com/janesmith",
+    "about": "I'm a full stack developer with 5+ years of experience building web applications with React, Node.js, and other modern technologies. I'm passionate about creating accessible, user-friendly applications that solve real problems. When not coding, I enjoy hiking, reading sci-fi novels, and experimenting with new technologies."
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "Tech Innovators Inc.",
+      "title": "Senior Frontend Developer",
+      "location": "San Francisco, CA",
+      "startDate": "2021-06",
+      "endDate": "Present",
+      "description": "Led the frontend development team in designing and implementing user interfaces for enterprise applications. Improved site performance by 40% through code optimization and refactoring. Mentored junior developers and implemented code review processes.",
+      "skills": ["React", "TypeScript", "GraphQL", "Jest", "CI/CD"]
+    },
+    {
+      "id": 2,
+      "company": "Digital Solutions Ltd.",
+      "title": "Full Stack Developer",
+      "location": "Remote",
+      "startDate": "2019-03",
+      "endDate": "2021-05",
+      "description": "Developed and maintained multiple client websites and web applications using React, Node.js, and PostgreSQL. Collaborated with designers to implement responsive UI components. Reduced API response time by 30% through database optimization.",
+      "skills": ["React", "Node.js", "PostgreSQL", "Express", "Redis"]
+    },
+    {
+      "id": 3,
+      "company": "StartupXYZ",
+      "title": "Frontend Developer",
+      "location": "New York, NY",
+      "startDate": "2017-09",
+      "endDate": "2019-02",
+      "description": "Worked on the company's main product interface using Vue.js and Vuex. Implemented new features and fixed bugs according to user feedback. Participated in agile development processes and sprint planning.",
+      "skills": ["Vue.js", "Vuex", "JavaScript", "CSS", "Jest"]
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "institution": "University of California, Berkeley",
+      "degree": "Master of Science in Computer Science",
+      "startDate": "2015",
+      "endDate": "2017",
+      "description": "Specialized in Human-Computer Interaction and Web Technologies. Thesis on improving web accessibility for visually impaired users.",
+      "courses": ["Advanced Algorithms", "Machine Learning", "Human-Computer Interaction", "Web Systems"]
+    },
+    {
+      "id": 2,
+      "institution": "Stanford University",
+      "degree": "Bachelor of Science in Computer Science",
+      "startDate": "2011",
+      "endDate": "2015",
+      "description": "Dean's List, 3.8 GPA. Active member of the Computer Science Student Association.",
+      "courses": ["Data Structures", "Computer Networks", "Software Engineering", "Database Systems"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-commerce Platform",
+      "description": "A full-featured e-commerce platform with product management, shopping cart, user authentication, and payment processing.",
+      "image": "/placeholder.svg",
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe API", "AWS"],
+      "liveLink": "https://ecommerce-project.example.com",
+      "sourceCode": "https://github.com/janesmith/ecommerce-platform"
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "A Kanban-style task management application with drag-and-drop functionality, user authentication, and real-time updates.",
+      "image": "/placeholder.svg",
+      "technologies": ["React", "Firebase", "Tailwind CSS", "Drag & Drop API"],
+      "liveLink": "https://task-app.example.com",
+      "sourceCode": "https://github.com/janesmith/task-management"
+    },
+    {
+      "id": 3,
+      "title": "Weather Dashboard",
+      "description": "A weather application that displays current conditions and forecasts for any location using geolocation or search.",
+      "image": "/placeholder.svg",
+      "technologies": ["JavaScript", "OpenWeatherMap API", "CSS Grid", "LocalStorage"],
+      "liveLink": "https://weather-app.example.com",
+      "sourceCode": "https://github.com/janesmith/weather-dashboard"
+    },
+    {
+      "id": 4,
+      "title": "Fitness Tracker",
+      "description": "A web application for tracking workouts, setting fitness goals, and visualizing progress over time.",
+      "image": "/placeholder.svg",
+      "technologies": ["React", "Chart.js", "Express", "MongoDB", "JWT"],
+      "liveLink": "https://fitness-tracker.example.com",
+      "sourceCode": "https://github.com/janesmith/fitness-tracker"
+    }
+  ],
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "HTML", "CSS", "Python", "SQL"],
+    "frameworks": ["React", "Next.js", "Node.js", "Express", "Vue.js", "Tailwind CSS"],
+    "tools": ["Git", "Docker", "Webpack", "Jest", "Cypress", "Figma", "AWS"]
+  }
+}
